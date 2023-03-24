@@ -3,6 +3,7 @@
 deps-plus is a Leiningen plugin designed to help with analyzing project dependencies and reviewing dependency changes.
 
 == Installation
+test
 
 Add `+[com.circleci/deps-plus "0.1.0-SNAPSHOT"]+` to your `+:user+` profile plugins in `+~/.lein/profiles.clj+`. For example,
 
